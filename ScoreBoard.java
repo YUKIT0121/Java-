@@ -4,11 +4,6 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * Keeps track of goals, misses, and percentage for CSC14400
  *    project #1. 
  * 
- * Although you are welcome to modify this class, it is highly
- *    inadvisable to do so. 
- * 
- * @author Stephen Blythe
- * @version 7/2019
  */
 public class ScoreBoard extends Actor
 {
