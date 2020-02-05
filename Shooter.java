@@ -3,8 +3,6 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 /**
  * The "player" that is trying to score goals
  * 
- * @author Yuki Tsukamoto
- * @version 10/24/2019
  */
 public class Shooter extends Actor
 {
