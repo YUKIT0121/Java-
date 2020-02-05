@@ -3,9 +3,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 /**
  * A goalie has a very interesting life. They just move back
  *    and forth between two locations all the time
- * 
- * @author Yuki Tsukamoto
- * @version 10/24/2019
+ *
  */
 public class Goalie extends Actor
 {
