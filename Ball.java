@@ -2,9 +2,6 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
                 
  /**
  * The ball in our soccer game
- * 
- * @author Yuki Tsukamoto 
- * @version 10/24/2019
  */
  public class Ball extends Actor
  {
